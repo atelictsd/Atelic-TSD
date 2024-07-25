@@ -59,6 +59,18 @@ params:
       category: On Premise Services
     - name: CA - Palm Desert - El Paseo Studio
       category: On Premise Services
+    - name: CO - Aspen - Tiehack
+      category: On Premise Services
+    - name: CO - Aspen - Moore House
+      category: On Premise Services
+    - name: IL - Chicago - 180E
+      category: On Premise Services
+    - name: IL - Chicago - 30N
+      category: On Premise Services
+    - name: IL - Chicago - 65E
+      category: On Premise Services
+    - name: NY - New York - 53W53
+      category: On Premise Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
