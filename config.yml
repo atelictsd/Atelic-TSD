@@ -37,6 +37,8 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
+    - name: 1Password
+      category: Cloud Services
     - name: Adobe
       category: Cloud Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
