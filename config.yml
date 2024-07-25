@@ -36,7 +36,9 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems: []
+  systems:
+    - name: Adobe
+      category: Cloud Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -44,9 +46,7 @@ params:
   logo: logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
-  customTabs:
-    - name: Test
-      link: https://#
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -59,6 +59,8 @@ params:
     - name: Cloud Services
       closed: true
       untitled: false
+    - name: On Premise Services
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
