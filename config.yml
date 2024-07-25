@@ -43,34 +43,49 @@ params:
       category: Cloud Services
     - name: Box
       category: Cloud Services
-    - name: Cisco Meraki
+    - name: FortiGate
       category: Cloud Services
-    - name: FortiGate Cloud
-      category: Cloud Services
+      description: FortiNet FortiGate Cloud management portal
     - name: Duo
       category: Cloud Services
-    - name: Microsoft_365
+    - name: Meraki
       category: Cloud Services
+      description: Cisco Meraki cloud management portal
+    - name: Microsoft
+      category: Cloud Services
+      description: Microsoft 365 desktop, mobile, and web apps
+    - name: ScreenConnect
+      category: Cloud Services
+      description: ConnectWise ScreenConnect client application and technician portal
     - name: Zoom
       category: Cloud Services
-    - name: CA - Indian Wells - Vintage 204
+    - name: 180E
       category: On Premise Services
-    - name: CA - Indian Wells - Vintage 302
+      description: Core infrastructure located in Chicago at 180E
+    - name: "204"
       category: On Premise Services
-    - name: CA - Palm Desert - El Paseo Studio
+      description: Core infrastructure located in Indian Wells at Vintage 204
+    - name: "302"
       category: On Premise Services
-    - name: CO - Aspen - Tiehack
+      description: Core infrastructure located in Indian Wells at Vintage 302
+    - name: 30N
       category: On Premise Services
-    - name: CO - Aspen - Moore House
+      description: Core infrastructure located in Chicago at 30N
+    - name: 53W53
       category: On Premise Services
-    - name: IL - Chicago - 180E
+      description: Core infrastructure located in New York at 53W53
+    - name: 65E
       category: On Premise Services
-    - name: IL - Chicago - 30N
+      description: Core infrastructure located in Chicago at 65E
+    - name: Moore
       category: On Premise Services
-    - name: IL - Chicago - 65E
+      description: Core infrastructure located in Aspen at the Moore House
+    - name: Tiehack
       category: On Premise Services
-    - name: NY - New York - 53W53
+      description: Core infrastructure located in Aspen at Tiehack
+    - name: Studio
       category: On Premise Services
+      description: Core infrastructure located in Palm Desert at the El Paseo studio
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
