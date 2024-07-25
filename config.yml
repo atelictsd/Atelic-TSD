@@ -36,22 +36,7 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
-      category: Uncategorized
+  systems: []
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -59,6 +44,9 @@ params:
   logo: logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Test
+      link: https://#
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -67,13 +55,7 @@ params:
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
   ok: "#008000"
-  categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
+  categories: []
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
