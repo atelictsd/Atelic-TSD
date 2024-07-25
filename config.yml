@@ -41,10 +41,24 @@ params:
       category: Cloud Services
     - name: Adobe
       category: Cloud Services
+    - name: Box
+      category: Cloud Services
     - name: Cisco Meraki
       category: Cloud Services
     - name: FortiGate Cloud
       category: Cloud Services
+    - name: Duo
+      category: Cloud Services
+    - name: Microsoft 365
+      category: Cloud Services
+    - name: Zoom
+      category: Cloud Services
+    - name: CA - Indian Wells - Vintage 204
+      category: On Premise Services
+    - name: CA - Indian Wells - Vintage 302
+      category: On Premise Services
+    - name: CA - Palm Desert - El Paseo Studio
+      category: On Premise Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
