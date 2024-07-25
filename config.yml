@@ -41,6 +41,10 @@ params:
       category: Cloud Services
     - name: Adobe
       category: Cloud Services
+    - name: Cisco Meraki
+      category: Cloud Services
+    - name: FortiGate Cloud
+      category: Cloud Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
