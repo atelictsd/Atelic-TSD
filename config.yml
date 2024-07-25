@@ -55,7 +55,10 @@ params:
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
   ok: "#008000"
-  categories: []
+  categories:
+    - name: Cloud Services
+      closed: true
+      untitled: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
