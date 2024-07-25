@@ -49,7 +49,7 @@ params:
       category: Cloud Services
     - name: Duo
       category: Cloud Services
-    - name: Microsoft 365
+    - name: Microsoft_365
       category: Cloud Services
     - name: Zoom
       category: Cloud Services
