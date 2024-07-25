@@ -2,7 +2,7 @@ title: Atelic Technology Services Department | Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://status.atelic.com
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
