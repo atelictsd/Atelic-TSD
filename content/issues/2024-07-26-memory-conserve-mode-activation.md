@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-07-26T15:16:37.494Z
+resolvedWhen: 2024-07-26T14:11:37.494Z
 affected:
   - 65E
 severity: down
