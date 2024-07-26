@@ -11,9 +11,11 @@ affected:
   - 65E
 severity: down
 ---
+*Vendor Investigating | 11:11am Central* - The Technology Services Department has initiated contact with the vendor and are now waiting for a response. We will continue to monitor the appliance throughout the day and weekend however do not expect the issue to recur at this time.
+
 *Extended Monitoring | 10:16am Central* - The Technology Services Department continues to monitor the appliance with positive results. We will initiate a complete investigation with the vendor of the outage within two hours.
 
-*Monitoring | 09:11am Central* - Our initial observations after our fix was implemented show that the FortiGate appliance has returned to a healthy state. SSL VPN connectivity, IPsec VPN connectivity, and GUI management portals are fully functional at this time. We are observing traffic flowing from the wan1 interface and DHCP/DNS requests being processed successfully. The Technology Services Department will monitor the appliance, and will initiate a complete investigation with the vendor of the outage within two hours.
+*Monitoring | 09:11am Central* - Our initial observations after our fix was implemented show that the FortiGate appliance has returned to a healthy state. SSL VPN connectivity, IPsec VPN connectivity, and GUI management portals are fully functional at this time. We are observing traffic flowing from the wan1 interface and DHCP/DNS requests being processed successfully. The Technology Services Department will monitor the appliance, and will initiate a complete investigation with the vendor of the outage within two hours. We thank you for your patience and understanding while we worked through this outage and associated downtime at the property.
 
 *Implementing | 09:08am Central* - We have determined a potential fix for the issue and are now implementing. Our fix will cause the FortiGate appliance to restart momentarily, resulting in downtime of 5-15 minutes. We will update this incident post once we have more information.
 
