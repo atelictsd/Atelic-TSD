@@ -2,15 +2,19 @@
 section: issue
 title: Memory conserve mode activation
 date: 2024-07-26T13:48:37.488Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-07-26T15:33:37.494Z
+resolvedWhen: 2024-07-26T15:16:37.494Z
 affected:
   - 65E
 severity: down
 ---
+*Extended Monitoring | 10:16am Central* - The Technology Services Department continues to monitor the appliance with positive results. We will initiate a complete investigation with the vendor of the outage within two hours.
+
+*Monitoring | 09:11am Central* - Our initial observations after our fix was implemented show that the FortiGate appliance has returned to a healthy state. SSL VPN connectivity, IPsec VPN connectivity, and GUI management portals are fully functional at this time. We are observing traffic flowing from the wan1 interface and DHCP/DNS requests being processed successfully. The Technology Services Department will monitor the appliance, and will initiate a complete investigation with the vendor of the outage within two hours.
+
 *Implementing | 09:08am Central* - We have determined a potential fix for the issue and are now implementing. Our fix will cause the FortiGate appliance to restart momentarily, resulting in downtime of 5-15 minutes. We will update this incident post once we have more information.
 
 *Investigating | 08:56am Central* - We are currently investigating this issue and can confirm significantly reduced performance with the FortiGate appliance along with core management functionality now disabled. We are currently researching further options to remedy the issue. We will update this incident post once we have more information. While minimal immediate effects will be noticed at the property, immediate action is necessary to rectify the issue and will likely require downtime of 10-30 minutes.
