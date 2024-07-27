@@ -11,6 +11,8 @@ affected:
   - 65E
 severity: down
 ---
+*Extended Monitoring | 02:58pm Central* - The Technology Services Department continues to monitor the appliance with positive results. We will continue to monitor the appliance throughout the remainder of  the weekend intermittently.
+
 *Extended Monitoring | 05:29pm Central* - The Technology Services Department continues to monitor the appliance with positive results. We will continue to monitor the appliance throughout the remainder of today and through the weekend intermittently.
 
 *Vendor Investigating | 04:53pm Central* - The vendor is actively investigating this case. The Technology Services Department will continue to work with the vendor next week as the engineer assigned to the ticket is now outside of standard working hours.
