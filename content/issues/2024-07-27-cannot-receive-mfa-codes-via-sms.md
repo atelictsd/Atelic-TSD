@@ -11,6 +11,8 @@ affected:
   - Zoom
 severity: disrupted
 ---
+*Vendor Investigating | 10:19am Central* - Zoom continues to investigate the root cause for the MFA delivery failure over text message and now suggests choosing to receive the MFA code via phone call as a temporary workaround. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Zoom.
+
 *Vendor Investigating | 01:35pm Central* - Zoom continues to investigate the root cause for the MFA delivery failure over text message and now suggests choosing to receive the MFA code via phone call as a temporary workaround. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Zoom.
 
 *Vendor Investigating | 12:35pm Central* - Zoom continues to investigate the root cause for the MFA delivery failure over text message. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Zoom.
