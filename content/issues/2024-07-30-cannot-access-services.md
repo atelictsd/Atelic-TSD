@@ -11,6 +11,8 @@ affected:
   - Microsoft
 severity: disrupted
 ---
+*Extended Monitoring | 11:52am Central* - Microsoft reports observing a significant majority of services restored, however a few instances where networking issues are still occurring. Microsoft is further monitoring the issue after deploying further fixes.
+
 *Issue Resolved, Vendor Monitoring | 10:51am Central* - Microsoft reports that the issue has been resolved and they are monitoring their infrastructure to validate the fix.
 
 *Vendor Investigating | 09:31am Central* - Microsoft continues to report issues accessing multiple Microsoft 365 services and are currently focusing on implementing their failover network plan. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Microsoft.
