@@ -11,6 +11,8 @@ affected:
   - Microsoft
 severity: disrupted
 ---
+*Extended Monitoring | 01:24pm Central* - Microsoft reports observing a significant majority of services restored, however a few instances where networking issues are still occurring. Microsoft is further monitoring the issue after deploying further fixes.
+
 *Extended Monitoring | 11:52am Central* - Microsoft reports observing a significant majority of services restored, however a few instances where networking issues are still occurring. Microsoft is further monitoring the issue after deploying further fixes.
 
 *Issue Resolved, Vendor Monitoring | 10:51am Central* - Microsoft reports that the issue has been resolved and they are monitoring their infrastructure to validate the fix.
