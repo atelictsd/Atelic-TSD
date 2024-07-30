@@ -11,6 +11,10 @@ affected:
   - 65E
 severity: down
 ---
+*Issue Resolved, Vendor Investigating | 07/30 04:27pm Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. The vendor is performing further investigation as to the root cause of the issue. A joint discovery session has been scheduled for 07/31 11:00am Central.
+
+*Issue Resolved, Vendor Investigating | 07/30 03:56pm Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. The vendor has completed their preliminary investigation.
+
 *Issue Resolved, Vendor Investigating | 07/29 10:23am Central* - The Technology Services Department confirms this issue has been resolved after monitoring for the past three days. We continue to work with the vendor to determine the root cause of this issue.
 
 *Issue Resolved, Extended Monitoring | 07/27 02:58pm Central* - The Technology Services Department continues to monitor the appliance with positive results. We will continue to monitor the appliance throughout the remainder of  the weekend intermittently.
