@@ -43,11 +43,13 @@ params:
       category: Cloud Services
     - name: Box
       category: Cloud Services
+    - name: CodeTwo
+      category: Cloud Services
+    - name: Duo
+      category: Cloud Services
     - name: FortiGate
       category: Cloud Services
       description: FortiNet FortiGate Cloud management portal
-    - name: Duo
-      category: Cloud Services
     - name: Meraki
       category: Cloud Services
       description: Cisco Meraki cloud management portal
