@@ -6,11 +6,15 @@ resolved: false
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-07-30T15:58:59.458Z
+resolvedWhen: 2024-07-30T21:13:59.458Z
 affected:
   - Microsoft
 severity: disrupted
 ---
+*Issue Resolved | 04:13pm Central* - Microsoft confirms that the issue is now resolved.
+
+*Issue Resolved, Extended Monitoring | 03:17pm Central* - Microsoft reports that the issue has been resolved and they are monitoring their infrastructure to validate the fix.
+
 *Extended Monitoring | 01:24pm Central* - Microsoft reports observing a significant majority of services restored, however a few instances where networking issues are still occurring. Microsoft is further monitoring the issue after deploying further fixes.
 
 *Extended Monitoring | 11:52am Central* - Microsoft reports observing a significant majority of services restored, however a few instances where networking issues are still occurring. Microsoft is further monitoring the issue after deploying further fixes.
