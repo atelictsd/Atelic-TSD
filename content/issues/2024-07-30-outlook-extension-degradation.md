@@ -11,6 +11,8 @@ affected:
   - Zoom
 severity: disrupted
 ---
+*Issue Resolved | 05:02pm Central* - Zoom confirms that the issue is now resolved.
+
 *Issue Resolved, Vendor Monitoring | 10:37am Central* - Zoom reports that the issue has been resolved and they are monitoring their infrastructure to validate the fix.
 
 *Vendor Investigating | 09:44am Central* - Zoom continues to report a service outage with using the Zoom for Outlook extension to schedule meetings. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Zoom. Scheduling meetings via the Zoom desktop, mobile, and web apps are not affected at this time.
