@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-07-30T19:04:06.753Z
+resolvedWhen: 2024-07-30T17:25:06.753Z
 affected:
   - "302"
 severity: notice
