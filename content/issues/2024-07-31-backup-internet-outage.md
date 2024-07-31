@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2024-07-31T09:46:48.694Z
 affected:
-  - Moore
+  - Tiehack
 severity: disrupted
 ---
 *Resolved | 11:20am Central* - The Technology Services Department has completed the investigation at this time. At 04:37am Central, Starlink issued a standard software update to the gateway which had caused the modem to restart. At 04:42am Central, the satellite lost connectivity to the Starlink constellation which resulted in a brief outage. We have confirmed at this time network connectivity is restored on both the FortiGate appliance and Starlink gateway.
