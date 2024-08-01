@@ -11,6 +11,12 @@ affected:
   - 65E
 severity: down
 ---
+*Issue Resolved | 08/01 11:51am Central* - The Technology Services Department completed work with the vendor to determine the root cause of this issue. A postmortem will be available within 24 hours on the Atelic TSD OneDrive site.
+
+*Issue Resolved, Vendor Investigating | 08/01 09:20am Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. A joint discovery session has started to investigate the root cause further.
+
+*Issue Resolved, Vendor Investigating | 07/31 11:15am Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. The vendor is performing further investigation as to the root cause of the issue. A joint discovery session is being rescheduled.
+
 *Issue Resolved, Vendor Investigating | 07/30 04:27pm Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. The vendor is performing further investigation as to the root cause of the issue. A joint discovery session has been scheduled for 07/31 11:00am Central.
 
 *Issue Resolved, Vendor Investigating | 07/30 03:56pm Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. The vendor has completed their preliminary investigation.
