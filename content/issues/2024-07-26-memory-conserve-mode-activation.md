@@ -31,7 +31,7 @@ severity: down
 
 *Issue Resolved, Extended Monitoring | 07/26 02:37pm Central* - The Technology Services Department continues to monitor the appliance with positive results. We will continue to monitor the appliance throughout the remainder of today and through the weekend intermittently.
 
-*Issue Resolved, Monitoring | 07/2601:19pm Central* - The Technology Services Department continues to monitor the appliance with positive results. We will continue to monitor the appliance throughout the remainder of today and through the weekend intermittently.
+*Issue Resolved, Monitoring | 07/26 01:19pm Central* - The Technology Services Department continues to monitor the appliance with positive results. We will continue to monitor the appliance throughout the remainder of today and through the weekend intermittently.
 
 *Vendor Investigating | 07/26 11:11am Central* - The Technology Services Department has initiated contact with the vendor and are now waiting for a response. We will continue to monitor the appliance throughout the day and weekend however do not expect the issue to recur at this time.
 
