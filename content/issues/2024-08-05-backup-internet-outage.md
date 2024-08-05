@@ -11,7 +11,7 @@ affected:
   - Moore
 severity: disrupted
 ---
-*Resolved | 08/05 11:39am Central* - The Technology Services Department has completed the investigation at this time. At 11:23am Central, Starlink lost connectivity to the satellite constellation due to obstructions at the property. We have confirmed at this time network connectivity is restored on both the FortiGate appliance and Starlink gateway.
+*Resolved | 08/05 11:39am Central* - The Technology Services Department can confirm that the backup internet connection has been stable and fully functional.
 
 *Monitoring | 08/04 06:04pm Central* - Prior to starting our investigation, the FortiGate appliance at the Moore House in Aspen reports that the Starlink internet connection is back online at this time. The Technology Services Department will monitor the connection over the next hour.
 
