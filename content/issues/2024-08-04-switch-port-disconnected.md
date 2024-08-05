@@ -11,7 +11,7 @@ affected:
   - "302"
 severity: disrupted
 ---
-*Resolved | 10:55am Central* - The Technology Services Department can confirm that the primary internet connection has been stable and fully functional in the past hour.
+*Resolved | 10:55am Central* - The Technology Services Department can confirm that the Audio/Video switch has been stable and fully functional.
 
 *Monitoring | 12:14am Central* - Prior to starting our investigation, the Audio/Video switch at Vintage 301 in Indian Wells report that the connection is back online at this time. The Technology Services Department will continue to monitor the connection closely.
 
