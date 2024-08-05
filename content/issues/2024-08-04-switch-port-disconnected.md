@@ -2,7 +2,7 @@
 section: issue
 title: Switch port disconnected
 date: 2024-08-04T05:10:04.212Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
