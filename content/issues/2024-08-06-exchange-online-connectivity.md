@@ -11,6 +11,8 @@ affected:
   - Microsoft
 severity: disrupted
 ---
+*Vendor Investigating | 04:20pm Central* - Microsoft continues to report issues of users not able to access their mailbox through the web and have restarted a portion of their infrastructure in hops of remediation. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Microsoft.
+
 *Vendor Investigating | 02:41pm Central* - Microsoft continues to report issues of users not able to access their mailbox through the web and are actively reviewing service telemetry in efforts to further understand the root cause of the issue. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Microsoft.
 
 *Vendor Investigating | 12:55pm Central* - Microsoft continues to report issues of users not able to access their mailbox through the web and are actively reviewing service telemetry in efforts to further understand the root cause of the issue. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Microsoft.
