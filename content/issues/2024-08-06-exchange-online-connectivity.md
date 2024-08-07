@@ -2,11 +2,11 @@
 section: issue
 title: Outlook on the Web unavailable
 date: 2024-08-06T17:32:13.434Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-08-06T19:07:13.440Z
+resolvedWhen: 2024-08-07T02:19:13.440Z
 affected:
   - Microsoft
 severity: disrupted
