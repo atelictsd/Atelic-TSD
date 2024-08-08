@@ -11,7 +11,7 @@ affected:
   - Moore
 severity: disrupted
 ---
-*Resolved | 05:34pm Central* - The Technology Services Department has completed the investigation at this time. At 05:31pm Central, the Starlink modem experienced a network issue with communiciating to the Starlink satellite constellation. We have confirmed at this time network connectivity is restored on both the FortiGate appliance and Starlink gateway.
+*Resolved | 05:34pm Central* - The Technology Services Department has completed the investigation at this time. At 05:31pm Central, the Starlink modem experienced a network issue with communicating to the Starlink satellite constellation. We have confirmed at this time network connectivity is restored on both the FortiGate appliance and Starlink gateway.
 
 *Monitoring | 05:32pm Central* - Prior to starting our investigation, the FortiGate appliance at the Moore House in Aspen reports that the Starlink internet connection is back online at this time. The Technology Services Department will monitor the connection, and will conduct a complete investigation of the outage within twelve hours.
 
