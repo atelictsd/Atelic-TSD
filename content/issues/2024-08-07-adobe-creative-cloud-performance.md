@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Creative Cloud performance
+title: Adobe Photoshop performance
 date: 2024-08-07T16:17:34.555Z
 resolved: true
 draft: false
