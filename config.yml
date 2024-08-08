@@ -32,7 +32,7 @@ outputFormats:
 enableGitInfo: true
 params:
   skipSeconds: false
-  useRelativeTime: false
+  useRelativeTime: true
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
