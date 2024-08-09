@@ -11,4 +11,9 @@ affected:
   - Adobe
 severity: disrupted
 ---
-*Report Received | 06:47pm Central* - We are investigating a potential issue that might affect the uptime of one our of services. Adobe has reported that users of select Adobe Creative Cloud desktop applications are experiencing the application freezing on the splash screen while the application is starting. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Adobe. Per Adobe, this appears to only be affecting beta versions of Photoshop, InDesign, Premier Pro, and Illustrator.
+*Vendor Investigating | 07:34pm Central* - Adobe continues to investigate the freezing issue upon starting select Adobe Creative Cloud desktop applications. Per Adobe, this appears to only be affecting beta versions of Photoshop, InDesign, Premier Pro, and Illustrator. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Adobe.
+
+*Vendor Investigating | 07:15pm Central* - Adobe continues to investigate the freezing issue upon starting select Adobe Creative Cloud desktop applications. Per Adobe, this appears to only be affecting beta versions of Photoshop, InDesign, 
+Premier Pro, and Illustrator. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Adobe.
+
+*Report Received | 06:47pm Central* - We are investigating a potential issue that might affect the uptime of one our of services. Adobe has reported that users of select Adobe Creative Cloud desktop applications are experiencing the application freezing on the splash screen while the application is starting. The Atelic Technology Services Department has not been able to validate this report but we are monitoring further updates from Adobe.
