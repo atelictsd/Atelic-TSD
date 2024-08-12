@@ -11,6 +11,8 @@ affected:
   - 65E
 severity: down
 ---
+*Issue Resolved, Vendor Investigating | 08/10 03:48pm Central* - The vendor is reviewing diagnostic log files produced by the Technology Services Department and will follow up with us once all log files have been reviewed and an action plan is constructed.
+
 *Issue Resolved, Vendor Investigating | 08/09 01:33pm Central* - The Technology Services Department has initiated contact with the vendor and are now waiting for a response. We will continue to monitor the appliance throughout the day and weekend however do not expect the issue to recur at this time.
 
 *Extended Monitoring | 08/09 11:39am Central* - The Technology Services Department continues to monitor the appliance with positive results. We will initiate a complete investigation with the vendor of the outage within two hours.
