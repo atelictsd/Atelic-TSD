@@ -11,6 +11,8 @@ affected:
   - 65E
 severity: disrupted
 ---
+*Issue Resolved, Maintenance Needed | 08/12 11:52am Central* - Per Cisco Meraki support, no hardware problems or switch misconfiguration have been detected, and further device troubleshooting is necessary. The Technology Services Department will work with an on site technician in the future in efforts to remediate this issue.
+
 *Issue Resolved, Vendor Investigating | 08/09 06:44pm Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. Additional troubleshooting and diagnostic steps have been requested by the Technology Services Department as no on site technician is available.
 
 *Issue Resolved, Vendor Investigating | 08/09 05:06pm Central* - The Technology Services Department continues to work with the vendor to determine the root cause of this issue. The vendor has completed their preliminary investigation and suggested testing with another available port on the switch.
