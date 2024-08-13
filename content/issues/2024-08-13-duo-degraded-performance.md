@@ -11,6 +11,8 @@ affected:
   - Duo
 severity: disrupted
 ---
+*Issue Resolved | 11:21am Central* - Duo confirms that the issue is now resolved.
+
 *Issue Resolved, Vendor Monitoring | 10:53am Central* - Duo reports that the issue has been resolved and they are monitoring their infrastructure to validate the fix.
 
 *Vendor Investigating | 10:43am Central* - Duo reports that the cause for the performance issue has been identified and a remediation strategy is in progress at this time. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Duo.
