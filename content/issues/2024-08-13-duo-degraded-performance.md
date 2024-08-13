@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-08-13T15:33:30.152Z
+resolvedWhen: 2024-08-13T15:53:30.152Z
 affected:
   - Duo
 severity: disrupted
