@@ -11,6 +11,8 @@ affected:
   - Meraki
 severity: down
 ---
+*Issue Resolved | 12:14pm Central* - The Technology Services Department has completed the investigation and can confirm that all management functionality has been restored at this time.
+
 *Extended Monitoring | 07:39am Central* - The Technology Services Department has been able to initially confirm that centralized management functionality has been restored for all Cisco Meraki equipment. A full investigation will be conducted within the next twelve hours.
 
 *Monitoring | 04:17am Central* - Automated monitoring from Cisco Meraki has reported that the issue is now resolved. The Technology Services Department will work to confirm that management for all Cisco Meraki has been restored within the next twelve hours.
