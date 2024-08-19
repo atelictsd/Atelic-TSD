@@ -11,6 +11,10 @@ affected:
   - 65E
 severity: down
 ---
+*Issue Resolved, Vendor Investigating | 08/19 01:31pm Central* - The Technology Services Department has requested assistance running the necessary commands provided by the vendor and is now waiting on the vendor.
+
+*Issue Resolved, Vendor Investigating | 08/18 04:22pm Central* - The vendor has requested additional diagnostic log files to be produced by the Technology Services Department.
+
 *Issue Resolved, Vendor Investigating | 08/13 03:53pm Central* - The Technology Services Department has provided the vendor the requested diagnostic log output and are now waiting for the vendor to review and advise the next action.
 
 *Issue Resolved, Vendor Investigating | 08/13 03:12pm Central* - The vendor has requested additional diagnostic log files to be produced by the Technology Services Department.
