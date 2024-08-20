@@ -59,6 +59,13 @@ params:
     - name: ScreenConnect
       category: Cloud Services
       description: ConnectWise ScreenConnect client application and technician portal
+    - category: Cloud Services
+      name: Shopify
+      description: PAHC Art online store
+    - category: Cloud Services
+      name: Website
+      description: PAHC Art website. Does not include online store, which is
+        separately monitored under the Shopify system monitor.
     - name: Zoom
       category: Cloud Services
     - name: 180E
