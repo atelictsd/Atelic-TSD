@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Document cloud availability
+title: Adobe Sign availability
 date: 2024-08-29T08:22:43.417Z
 resolved: true
 draft: false
