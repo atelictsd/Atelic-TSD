@@ -9,7 +9,7 @@ pin: false
 resolvedWhen: 2024-09-03T16:00:11.304Z
 affected:
   - "302"
-severity: down
+severity: notice
 ---
 *Maintenance Complete | 11:01am Central* - The Technology Services Department has completed maintenance at Vintage 302 affecting the FortiGate appliance. The Atelic Technology Services Department appreciates your patience and understanding while working through this maintenance period.
 
