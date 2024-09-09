@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Primary internet connection outage
-date: 2024-09-09T11:58:36.088Z
+date: 2024-09-07T10:58:36.088Z
 resolved: true
 draft: false
 informational: false
