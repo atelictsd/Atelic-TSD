@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Backup internet connection outage
-date: 2024-09-09T19:32:22.870Z
+date: 2024-09-08T22:56:22.870Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-09-09T19:32:22.875Z
+resolvedWhen: 2024-09-08T22:57:22.875Z
 affected:
   - Tiehack
 severity: disrupted
