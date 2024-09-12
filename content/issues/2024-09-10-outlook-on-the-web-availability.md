@@ -2,7 +2,7 @@
 section: issue
 title: Outlook on the Web availability
 date: 2024-09-10T16:33:28.108Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
