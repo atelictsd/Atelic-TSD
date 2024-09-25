@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Primary internet connection outage
-date: 2024-08-29T01:46:29.192Z
+date: 2024-08-29T02:46:29.192Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-08-29T06:44:29.197Z
+resolvedWhen: 2024-08-29T07:44:29.197Z
 affected:
   - "204"
   - "302"
