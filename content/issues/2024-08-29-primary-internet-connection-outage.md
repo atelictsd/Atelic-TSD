@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-08-28T06:44:29.197Z
+resolvedWhen: 2024-08-29T06:44:29.197Z
 affected:
   - "204"
   - "302"
