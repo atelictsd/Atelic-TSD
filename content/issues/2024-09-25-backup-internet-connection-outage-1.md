@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Backup internet connection outage
-date: 2024-09-25T10:13:39.527Z
+date: 2024-09-24T10:13:39.527Z
 resolved: true
 draft: false
 informational: false
