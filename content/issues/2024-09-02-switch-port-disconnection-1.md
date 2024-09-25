@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-09-02T09:00:18.158Z
+resolvedWhen: 2024-09-02T09:04:18.158Z
 affected:
   - 65E
 severity: disrupted
