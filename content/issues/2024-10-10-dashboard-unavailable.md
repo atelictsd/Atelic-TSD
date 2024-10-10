@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-10-09T00:29:05.421Z
+resolvedWhen: 2024-10-10T00:29:05.421Z
 affected:
   - Meraki
 severity: disrupted
