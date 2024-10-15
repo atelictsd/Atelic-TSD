@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Documnet Cloud availability
+title: Adobe Document Cloud availability
 date: 2024-10-08T12:21:31.574Z
 resolved: true
 draft: false
