@@ -2,7 +2,7 @@
 section: issue
 title: FortiGate appliance issues
 date: 2024-10-18T00:25:56.812Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
