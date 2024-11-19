@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2024-11-18T03:14:31.475Z
 affected:
-  - Moore
+  - Tiehack
 severity: disrupted
 ---
 *Issue Resolved | 11/19 10:29am Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, the Starlink internet connection experienced connectivity issues caused by an obstruction for less than one minute. We have confirmed that connectivity has been restored on both our Starlink and FortiGate management dashboards.
