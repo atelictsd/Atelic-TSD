@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Exchange Online service availability
+title: Cannot search in SharePoint online
 date: 2024-11-25T08:32:53.511Z
 resolved: true
 draft: false
