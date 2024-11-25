@@ -2,7 +2,7 @@
 section: issue
 title: 1Password activity log unavailable
 date: 2024-11-25T18:05:41.808Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
