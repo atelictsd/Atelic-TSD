@@ -11,6 +11,14 @@ affected:
   - Microsoft
 severity: disrupted
 ---
+*Vendor Implementing Fix | 11/25 01:15pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 01:15pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied with 90% recovery detected. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 01:15pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 01:15pm Central* - Microsoft is rerouting traffic to infrastructure with the patch applied since restarting affected infrastructure has not proven successful. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
 *Vendor Implementing Fix | 11/25 11:37am Central* - Microsoft is rerouting traffic to infrastructure with the patch applied. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
 
 *Vendor Implementing Fix | 11/25 10:44am Central* - Microsoft is rerouting traffic to infrastructure with the patch applied. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
