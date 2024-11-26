@@ -11,7 +11,29 @@ affected:
   - Microsoft
 severity: disrupted
 ---
-*Vendor Implementing Fix | 11/25 01:15pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+*Issue Resolved | 11/26 01:51pm Central* - Microsoft reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
+
+*Issue Resolved, Extended Monitoring | 11/26 06:53am Central* - Microsoft reports that the issue has been resolved and is now monitoring to validate the fix. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption is expected for this issue.
+
+*Issue Resolved, Vendor Monitoring | 11/26 04:59am Central* - Microsoft reports that the issue has been resolved and is now monitoring to validate the fix. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption is expected for this issue.
+
+*Vendor Implementing Fix | 11/26 03:03am Central* - Microsoft continues to work on clearing email queues. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/26 02:04am Central* - Microsoft reports that systems responsible for the stalled email queues have been restarted. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 11:04pm Central* - All functionality has resumed with the exception of Outlook on the Web, which continues to experience performance and functionality issues. Microsoft continues to monitor and troubleshoot this issue. Additionally, email queues are operating with reduced performance. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 10:32pm Central* - All functionality has resumed with the exception of Outlook on the Web, which continues to experience performance and functionality issues. Microsoft continues to monitor and troubleshoot this issue. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 09:31pm Central* - All functionality has resumed with the exception of Outlook on the Web, which continues to experience performance and functionality issues. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 08:10pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied and is expecting full completion by 09:00pm Central. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 06:01pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied and is expecting full completion by 09:00pm Central. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 04:09pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied and is approximately 90 percent completed. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
+
+*Vendor Implementing Fix | 11/25 01:52pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
 
 *Vendor Implementing Fix | 11/25 01:15pm Central* - Microsoft continues to reroute traffic to infrastructure with the patch applied with 90% recovery detected. Microsoft reports that multiple services are intermittently unavailable. The Atelic Technology Services Department has been able to validate this report and are monitoring further updates from Microsoft. End user disruption will occur for this issue.
 
