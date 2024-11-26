@@ -2,11 +2,11 @@
 section: issue
 title: Microsoft 365 service availability
 date: 2024-11-25T03:00:53.511Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2024-11-25T09:53:53.515Z
+resolvedWhen: 2024-11-26T19:51:53.515Z
 affected:
   - Microsoft
 severity: disrupted
