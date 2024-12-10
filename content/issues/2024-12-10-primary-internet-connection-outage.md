@@ -11,7 +11,7 @@ affected:
   - 30N
 severity: down
 ---
-*Issue Resolved | 03:24pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. We have confirmed that connectivity has been restored on our FortiGate management dashboards.
+*Issue Resolved | 07:06pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. We have confirmed that connectivity has been restored on our FortiGate management dashboards.
 
 *Issue Resolved, Department Monitoring | 01:24pm Central* - Upon investigation with the on site contact, the Technology Services Department determined that the modem was unplugged accidently while cleaning. We are sorry for any inconvenience this may have cause you.
 
