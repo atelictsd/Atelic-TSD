@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Cannot create whiteboards
+title: Cannot create whiteboards or notes
 date: 2024-12-19T16:42:54.720Z
 resolved: false
 draft: false
@@ -11,6 +11,8 @@ affected:
   - Zoom
 severity: disrupted
 ---
+*Vendor Investigating | 11:41am Central* - Zoom continues to investigate the issue. Zoom reports that whiteboards and notes are not able to be created currently. Zoom has identified the issue and working on a fix. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Zoom. End user disruption may occur for this issue.
+
 *Vendor Investigating | 11:00am Central* - Zoom continues to investigate the issue. Zoom reports that whiteboards are not able to be created currently. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Zoom. End user disruption may occur for this issue.
 
 *Report Received | 10:42am Central* - We are investigating a potential issue that might affect the uptime of one of our services. Zoom reports that whiteboards are not able to be created currently. The Atelic Technology Services Department has not been able to validate this report and are monitoring further updates from Zoom. End user disruption may occur for this issue.
