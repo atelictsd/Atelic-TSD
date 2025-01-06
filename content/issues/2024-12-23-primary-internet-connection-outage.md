@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Primary internet connection outage
+title: Backup internet connection outage
 date: 2024-12-23T17:31:27.929Z
 resolved: true
 draft: false
