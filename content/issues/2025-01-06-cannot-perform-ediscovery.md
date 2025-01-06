@@ -2,7 +2,7 @@
 section: issue
 title: Cannot perform eDiscovery
 date: 2025-01-02T16:05:11.211Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
