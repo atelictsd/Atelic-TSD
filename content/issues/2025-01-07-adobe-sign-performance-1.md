@@ -2,7 +2,7 @@
 section: issue
 title: Adobe Sign performance
 date: 2025-01-07T17:05:27.096Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
