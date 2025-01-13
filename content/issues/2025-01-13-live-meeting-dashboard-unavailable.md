@@ -2,7 +2,7 @@
 section: issue
 title: Live meeting dashboard unavailable
 date: 2025-01-13T15:31:04.513Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
