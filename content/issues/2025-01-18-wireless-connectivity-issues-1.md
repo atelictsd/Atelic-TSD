@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-01-09T18:29:52.089Z
+resolvedWhen: 2025-01-17T18:29:52.089Z
 affected:
   - "302"
 severity: disrupted
