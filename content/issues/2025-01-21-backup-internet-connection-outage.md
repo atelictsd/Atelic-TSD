@@ -11,7 +11,7 @@ affected:
   - Tiehack
 severity: disrupted
 ---
-*Issue Resolved | 07:08pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, the Starlink gateway experienced an update resulting in a downtime of one minute. We have confirmed that connectivity has been restored on our FortiGate and Starlink management dashboards.
+*Issue Resolved | 08:33am Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, the Starlink gateway experienced an update resulting in a downtime of one minute. We have confirmed that connectivity has been restored on our FortiGate and Starlink management dashboards.
 
 *Issue Resolved, Department Monitoring | 03:40am Central* - Prior to starting our investigation, the FortiGate appliance at Tiehack reports that the Starlink internet connection has been restored at this time. We are sorry for any inconvenience this may have cause you. The Technology Services Department will investigate this report shortly and will update this incident post once we have more information.
 
