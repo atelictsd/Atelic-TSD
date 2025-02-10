@@ -2,7 +2,7 @@
 section: issue
 title: Unable to access Box web
 date: 2025-02-07T03:10:38.096Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
