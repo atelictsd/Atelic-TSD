@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Scan performance
+title: Adobe Sign performance
 date: 2025-02-03T21:03:42.837Z
 resolved: true
 draft: false
