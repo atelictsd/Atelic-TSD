@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Wireless Connectivity Issues
+title: Wireless connectivity Issues
 date: 2025-02-18T16:52:21.607Z
 resolved: true
 draft: false
