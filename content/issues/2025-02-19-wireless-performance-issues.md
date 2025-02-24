@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Wireless Performance Issues
+title: Wireless performance issues
 date: 2025-02-18T18:43:17.578Z
 resolved: true
 draft: false
