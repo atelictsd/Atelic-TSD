@@ -2,7 +2,7 @@
 section: issue
 title: Amp maintenance
 date: 2025-03-17T14:30:15.900Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
