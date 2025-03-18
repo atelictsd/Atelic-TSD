@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Wireless connectivity issues
-date: 2025-03-18T16:42:03.739Z
+date: 2025-03-13T16:42:03.739Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-03-18T17:12:03.741Z
+resolvedWhen: 2025-03-13T17:12:03.741Z
 affected:
   - Tiehack
 severity: disrupted
