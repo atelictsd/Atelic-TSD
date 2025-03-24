@@ -6,7 +6,7 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-02-11T03:41:47.446Z
+resolvedWhen: 2025-02-07T03:41:47.446Z
 affected:
   - FortiGate
 severity: down
