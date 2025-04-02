@@ -2,7 +2,7 @@
 section: issue
 title: Primary internet connection outage
 date: 2025-04-02T21:29:15.236Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
