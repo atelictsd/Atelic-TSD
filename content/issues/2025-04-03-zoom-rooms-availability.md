@@ -7,6 +7,8 @@ draft: false
 informational: false
 pin: false
 resolvedWhen: 2025-04-01T18:32:46.717Z
+affected:
+  - Zoom
 severity: disrupted
 ---
 *Issue Resolved | 01:32pm Central* - Zoom reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
