@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2025-04-09T10:27:43.831Z
 affected:
-  - Moore
+  - Tiehack
 severity: disrupted
 ---
 *Issue Resolved | 02:48pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, the Starlink gateway experienced an update to the gateway resulting in a downtime of two minutes. We have confirmed that connectivity has been restored on our FortiGate and Starlink management dashboards.
