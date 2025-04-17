@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2025-04-17T07:38:23.791Z
 affected:
-  - Tiehack
+  - 65E
 severity: disrupted
 ---
 *Issue Resolved | 11:36am Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Comcast Xfinity experienced a service outage resulting in a downtime of six minutes. We have confirmed that connectivity has been restored on our FortiGate and Starlink management dashboards.
