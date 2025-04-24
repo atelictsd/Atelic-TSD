@@ -2,7 +2,7 @@
 section: issue
 title: 1Password service unavailable
 date: 2025-04-22T13:09:09.016Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
