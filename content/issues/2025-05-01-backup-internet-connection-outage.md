@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Backup internet connection outage
-date: 2025-05-01T10:48:34.795Z
+date: 2025-04-30T10:48:34.795Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-05-01T10:49:34.797Z
+resolvedWhen: 2025-04-30T10:49:34.797Z
 affected:
   - Moore
 severity: disrupted
