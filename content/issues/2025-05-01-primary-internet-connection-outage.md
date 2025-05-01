@@ -11,7 +11,7 @@ affected:
   - Moore
 severity: disrupted
 ---
-*Issue Resolved | 07:01pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs. After completing our final investigation, the Comcast Business gateway experienced an update resulting in downtime of three minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
+*Issue Resolved | 10:36pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs. After completing our final investigation, the Comcast Business gateway experienced an update resulting in downtime of three minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
 
 *Monitoring | 04:45am Central* - The FortiGate appliance at Tiehack in Aspen reports that the Comcast Business internet connection is back online at this time. The Technology Services Department will monitor the connection, and will conduct a complete investigation of the outage within twelve hours.
 
