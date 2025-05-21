@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Adobe Express performance
-date: 2025-05-21T13:19:37.295Z
+date: 2025-05-09T02:17:37.295Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-05-21T13:19:37.298Z
+resolvedWhen: 2025-05-09T02:56:37.298Z
 affected:
   - Adobe
 severity: disrupted
