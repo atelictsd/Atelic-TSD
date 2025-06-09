@@ -1,17 +1,17 @@
 ---
 section: issue
 title: Primary internet connection outage
-date: 2025-06-09T16:38:13.961Z
+date: 2025-06-07T01:44:13.961Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-06-09T16:38:13.963Z
+resolvedWhen: 2025-06-07T02:05:13.963Z
 affected:
   - 53W53
 severity: disrupted
 ---
-*Issue Resolved | 06/09 10:13am Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Verizon Business experienced numerous service outages resulting in a total downtime of three minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
+*Issue Resolved | 06/09 10:13am Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Verizon Business experienced numerous service outages resulting in a total downtime of 21 minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
 
 *Issue Resolved, Department Monitoring | 06/06 09:45pm Central* - Prior to starting our investigation, the FortiGate appliance at 53W53 in New York reports that the Verizon Business internet connection is back online at this time. The Technology Services Department will monitor the connection, and will conduct a complete investigation of the outage within twelve hours.
 
