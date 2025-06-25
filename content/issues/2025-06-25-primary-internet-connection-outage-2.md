@@ -11,7 +11,7 @@ affected:
   - Tiehack
 severity: disrupted
 ---
-*Issue Resolved | 04:5pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Comcast Business experienced a gateway update resulting in a total downtime of two minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
+*Issue Resolved | 04:58pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Comcast Business experienced a gateway update resulting in a total downtime of two minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
 
 *Issue Resolved, Department Monitoring | 05:52am Central* - After the Vintage Fiber vendor implemented their fix, the FortiGate appliance at Tiehack in Aspen reports that the Comcast Xfinity internet connection is back online at this time. The Technology Services Department will monitor the connection, and will conduct a complete investigation of the outage within twelve hours.
 
