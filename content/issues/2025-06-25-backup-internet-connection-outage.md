@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Backup internet connection outage
-date: 2025-06-25T20:05:19.310Z
+date: 2025-06-13T10:29:19.310Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-06-25T20:05:19.311Z
+resolvedWhen: 2025-06-13T10:30:19.311Z
 affected:
   - "302"
 severity: disrupted
