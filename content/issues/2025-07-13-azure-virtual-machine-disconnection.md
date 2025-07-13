@@ -11,7 +11,7 @@ affected:
   - 65E
 severity: down
 ---
-*Issue Resolved | 07/08 01:56pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. We have confirmed that connectivity has been restored on our FortiGate management dashboards.
+*Issue Resolved | 07/08 07:03pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. We have confirmed that connectivity has been restored on our FortiGate management dashboards.
 
 *Issue Resolved, Department Monitoring | 07/07 07:10pm Central* - Prior to starting our investigation, the FortiGate appliance at 65E reports that the Microsoft Azure IPsec VPN tunnel has been restored at this time. We are sorry for any inconvenience this may have cause you. The Technology Services Department will investigate this report shortly and will update this incident post once we have more information.
 
