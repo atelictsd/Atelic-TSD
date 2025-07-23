@@ -2,7 +2,7 @@
 section: issue
 title: Hosts offline
 date: 2025-07-18T14:28:25.956Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
