@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Event reporting unavailable
+title: File attachment actions unavailable
 date: 2025-07-29T19:51:50.468Z
 resolved: true
 draft: false
