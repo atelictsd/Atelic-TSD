@@ -9,7 +9,7 @@ pin: false
 resolvedWhen: 2025-07-21T19:29:57.359Z
 affected:
   - 1Password
-severity: down
+severity: disrupted
 ---
 *Issue Resolved | 02:29pm Central* - 1Password reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
 
