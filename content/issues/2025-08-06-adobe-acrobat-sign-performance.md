@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Acrobat Sign performance
+title: Adobe administrative console performance
 date: 2025-08-06T13:27:21.962Z
 resolved: true
 draft: false
