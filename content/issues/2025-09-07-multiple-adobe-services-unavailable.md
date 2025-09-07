@@ -2,12 +2,13 @@
 section: issue
 title: Multiple Adobe services unavailable
 date: 2025-08-21T15:57:20.749Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
 resolvedWhen: 2025-08-21T20:00:20.752Z
-affected: []
+affected:
+  - Adobe
 severity: disrupted
 ---
 *Issue Resolved | 05:00pm Central* - Adobe reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
