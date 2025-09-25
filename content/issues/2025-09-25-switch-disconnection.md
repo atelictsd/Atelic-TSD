@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Switch disconnection
-date: 2025-09-20T05:00:42.179Z
+date: 2025-09-19T05:00:42.179Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-09-20T05:02:42.180Z
+resolvedWhen: 2025-09-19T05:02:42.180Z
 affected:
   - 53W53
 severity: disrupted
