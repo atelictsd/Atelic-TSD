@@ -1,6 +1,6 @@
 ---
 section: issue
-title: 1Password service outage
+title: Cannot provision new 1Password accounts
 date: 2025-09-23T18:24:23.254Z
 resolved: true
 draft: false
