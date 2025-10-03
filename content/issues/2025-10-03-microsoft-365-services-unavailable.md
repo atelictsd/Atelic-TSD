@@ -2,7 +2,7 @@
 section: issue
 title: Microsoft 365 services unavailable
 date: 2025-10-02T12:59:36.080Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
