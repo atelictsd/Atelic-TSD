@@ -3,7 +3,7 @@ section: issue
 title: Primary internet connection outage
 date: 2025-09-26T00:09:10.561Z
 resolved: true
-draft: true
+draft: false
 informational: false
 pin: false
 resolvedWhen: 2025-09-26T05:48:10.563Z
