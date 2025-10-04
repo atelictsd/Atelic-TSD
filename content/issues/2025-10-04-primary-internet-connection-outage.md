@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2025-10-04T13:40:12.205Z
 affected:
-  - "5353"
+  - 53W53
 severity: disrupted
 ---
 *Issue Resolved | 12:51pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Verizon Business experienced four service outages resulting in a total downtime of four minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
