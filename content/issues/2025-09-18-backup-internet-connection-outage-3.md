@@ -3,7 +3,7 @@ section: issue
 title: Backup internet connection outage
 date: 2025-09-17T10:53:08.481Z
 resolved: true
-draft: true
+draft: false
 informational: false
 pin: false
 resolvedWhen: 2025-09-17T10:55:08.482Z
