@@ -11,7 +11,7 @@ affected:
   - 65E
 severity: disrupted
 ---
-*Issue Resolved | 10/05 05:26pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Comcast Xfinity experienced a service outage resulting in a total downtime of 41 minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
+*Issue Resolved | 03:35pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Comcast Xfinity experienced a service outage resulting in a total downtime of 41 minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
 
 *Issue Resolved, Department Monitoring | 01:57am Central* - Prior to starting our investigation, the FortiGate appliance at Vintage 204 in Indian Wells reports that the Comcast Xfinity internet connection is back online at this time. The Technology Services Department will monitor the connection, and will conduct a complete investigation of the outage within twelve hours.
 
