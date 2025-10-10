@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Admin Console availability
+title: Adobe Admin Console performance
 date: 2025-10-07T12:51:13.910Z
 resolved: true
 draft: false
