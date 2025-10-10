@@ -6,11 +6,11 @@ resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-10-07T06:32:12.210Z
+resolvedWhen: 2025-10-07T06:39:12.210Z
 affected:
   - Adobe
 severity: disrupted
 ---
-*False Positive | 01:32am Central* - Adobe reports that after further investigation, the issue was determined to be a false positive. If the issue is occurring, please contact the Technology Services Department. This will be the last update.
+*Issue Resolved | 01:39am Central* - Adobe reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
 
 *Report Received | 01:15am Central* - We are investigating a potential issue that might affect the uptime of one of our services. Adobe reports that users are unable to access Adobe Firefly. The Atelic Technology Services Department has not been able to validate this report and are monitoring further updates from Adobe. End user disruption may occur for this issue.
