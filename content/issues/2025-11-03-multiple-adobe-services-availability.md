@@ -1,0 +1,30 @@
+---
+section: issue
+title: Multiple Adobe services availability
+date: 2025-10-20T08:28:38.384Z
+resolved: true
+draft: false
+informational: false
+pin: false
+resolvedWhen: 2025-10-20T23:31:38.386Z
+affected:
+  - Adobe
+severity: down
+---
+*Issue Resolved | 06:33pm Central* - Adobe reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
+
+*Vendor Investigating | 05:00pm Central* - Adobe continues to work with their third party cloud infrastructure provider outage. Adobe reports that users are unable to access the Adobe admin console, Adobe Photoshop desktop, Adobe Fonts, Adobe Express, Adobe Portfolio, Adobe Stock, and Adobe Behance, Adobe Firefly, Adobe Document Cloud and Adobe Acrobat for Teams. Users accessing Adobe Lighroom and users attempting to publish InDesign files online are experincing performance degradation. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Adobe. End user disruption may occur for this issue.
+
+*Vendor Investigating | 03:57pm Central* - Adobe continues to work with their third party cloud infrastructure provider outage. Adobe reports that users are unable to access the Adobe admin console, Adobe Photoshop desktop, Adobe Fonts, Adobe Express, Adobe Portfolio, Adobe Stock, and Adobe Behance, Adobe Firefly, Adobe Document Cloud and Adobe Acrobat for Teams. Users accessing Adobe Lighroom and users attempting to publish InDesign files online are experincing performance degradation. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Adobe. End user disruption may occur for this issue.
+
+*Vendor Investigating | 03:57pm Central* - Adobe continues to investigate the issue and has pointed to a third party cloud infrastructure provider outage. Additionally, Adobe has increased ther services affected to include Adobe Lightroom. Adobe reports that users are unable to access the Adobe admin console, Adobe Photoshop desktop, Adobe Fonts, Adobe Express, Adobe Portfolio, Adobe Stock, and Adobe Behance, Adobe Firefly, Adobe Document Cloud and Adobe Acrobat for Teams. Users accessing Adobe Lighroom and users attempting to publish InDesign files online are experincing performance degradation. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Adobe. End user disruption may occur for this issue.
+
+*Vendor Investigating | 01:22pm Central* - Adobe continues to investigate the issue and has pointed to a third party cloud infrastructure provider outage. Additionally, Adobe has increased ther services affected to include publishing InDesign files online. Adobe reports that users are unable to access the Adobe admin console, Adobe Photoshop desktop, Adobe Fonts, Adobe Express, Adobe Portfolio, Adobe Stock, and Adobe Behance, Adobe Firefly, Adobe Document Cloud and Adobe Acrobat for Teams. Users attempting to publish InDesign files online are experincing performance degradation. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Adobe. End user disruption may occur for this issue.
+
+*Vendor Investigating | 10:38am Central* - Adobe continues to investigate the issue and has pointed to a third party cloud infrastructure provider outage. Additionally, Adobe has increased ther services affected to include Adobe admin console. Adobe reports that users are unable to access the Adobe admin console, Adobe Photoshop desktop, Adobe Fonts, Adobe Express, Adobe Portfolio, Adobe Stock, and Adobe Behance, Adobe Firefly, Adobe Document Cloud and Adobe Acrobat for Teams. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Adobe. End user disruption may occur for this issue.
+
+*Vendor Investigating | 09:49am Central* - Adobe continues to investigate the issue and has pointed to a third party cloud infrastructure provider outage. Additionally, Adobe has increased ther services affected to include Adobe Photoshop desktop, Adobe Fonts, Adobe Express, Adobe Portfolio, Adobe Stock, and Adobe Behance. Adobe reports that users are unable to access Adobe Photoshop desktop, Adobe Fonts, Adobe Express, Adobe Portfolio, Adobe Stock, and Adobe Behance, Adobe Firefly, Adobe Document Cloud and Adobe Acrobat for Teams. The Atelic Technology Services Department has not been able to validate this report and are monitoring further updates from Adobe. End user disruption is not expected however members of the Technology Services Department disruption may occur for this issue.
+
+*Vendor Investigating | 03:28am Central* - Adobe continues to investigate the issue. Additionally, Adobe has increased ther services affected to include Adobe Firefly. Adobe reports that users are unable to access Adobe Firefly, Adobe Document Cloud and Adobe Acrobat for Teams. The Atelic Technology Services Department has not been able to validate this report and are monitoring further updates from Adobe. End user disruption is not expected however members of the Technology Services Department disruption may occur for this issue.
+
+*Report Received | 03:28am Central* - We are investigating a potential issue that might affect the uptime of one of our services. Adobe reports that users are unable to access Adobe Document Cloud and Adobe Acrobat for Teams. The Atelic Technology Services Department has not been able to validate this report and are monitoring further updates from Adobe. End user disruption may occur for this issue.
