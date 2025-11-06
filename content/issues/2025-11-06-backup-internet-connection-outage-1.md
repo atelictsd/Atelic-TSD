@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2025-11-06T12:05:12.271Z
 affected:
-  - Tiehack
+  - "204"
 severity: disrupted
 ---
 *Issue Resolved | 11/06 05:12pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Charter Spectrum experienced a gateway update resulting in a total downtime of two minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
