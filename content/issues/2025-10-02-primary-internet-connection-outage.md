@@ -12,6 +12,12 @@ affected:
   - Moore
 severity: down
 ---
+*Issue Resolved, Vendor Investigation Suspended | 10/17 03:05pm Central* - After a support session with the vendor, further diagnostics need to be performed on site. Per the vendor, after recreating the issue and experiencing the issue with the wan2 connection loosing internet access after 90 minutes, the vendor should be contacted for more commands to be performed while directly connected via the management port on the FortiGate appliance.
+
+*Issue Resolved, Vendor Investigating | 10/07 04:01pm Central* - The Technology Services continues to actively work with the vendor to determine the root cause of this downtime. After further review and escalation internally within vendor support, the vendor would like to conduct a technical support session to further investigate the root cause of the downtime and has been rescheduled for 10/17.
+
+*Issue Resolved, Vendor Investigating | 10/01 02:54pm Central* - The Technology Services continues to actively work with the vendor to determine the root cause of this downtime. After further review and escalation internally within vendor support, the vendor would like to conduct a technical support session to further investigate the root cause of the downtime and has scheduled for 10/03.
+
 *Issue Resolved, Vendor Investigating | 10/01 02:54pm Central* - The Technology Services continues to actively work with the vendor to determine the root cause of this downtime. After further review and escalation internally within vendor support, the vendor would like to conduct a technical support session to further investigate the root cause of the downtime. The Technology Services Department provided date and time windows as requested by the vendor.
 
 *Issue Resolved, Vendor Investigating | 09/27 02:29pm Central* - The Technology Services continues to actively work with the vendor to determine the root cause of this downtime. We have provided supplemental information requested by the support engineer to aid FortiGate in their investigation of this issue.
