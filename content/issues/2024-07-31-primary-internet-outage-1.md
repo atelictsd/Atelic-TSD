@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Primary internet outage
+title: Backup internet outage
 date: 2024-07-31T03:27:57.272Z
 resolved: true
 draft: false
