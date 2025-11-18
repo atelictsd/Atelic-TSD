@@ -11,6 +11,8 @@ affected:
   - 65E
 severity: down
 ---
+*Issue Resolved | 11/06 10:00pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department.
+
 *Issue Resolved, Extended Monitoring | 11/06 05:00pm Central* - The Technology Services Department continues to monitor affected functionality to validate the fix. The Atelic Technology Services Department has been able to validate this report however are continuing to investigate. End user disruption is expected for this issue.
 
 *Issue Resolved, Department Monitoring | 11/06 10:00am Central* - The Technology Services Department has implemented a fix and is now monitoring to validate the fix. The Atelic Technology Services Department has been able to validate this report. End user disruption is expected for this issue.
