@@ -1,0 +1,16 @@
+---
+section: issue
+title: Adobe Admin Console performance
+date: 2025-11-26T17:13:48.335Z
+resolved: true
+draft: false
+informational: false
+pin: false
+resolvedWhen: 2025-11-26T17:27:48.338Z
+affected:
+  - Adobe
+severity: disrupted
+---
+*False Positive | 11:27am Central* - Adobe reports that after further investigation, the issue was determined to be a false positive. If the issue is occurring, please contact the Technology Services Department. This will be the last update.
+
+*Report Received | 11:13am Central* - We are investigating a potential issue that might affect the uptime of one of our services. Adobe reports that users are experiencing performance degradation when accesing the Adobe Admin Console. The Atelic Technology Services Department has not been able to validate this report and are monitoring further updates from Adobe. End user disruption is not expected occur for this issue, however members of the Technology Services Department may experience service disruption.
