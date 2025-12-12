@@ -11,7 +11,7 @@ affected:
   - Microsoft
 severity: disrupted
 ---
-*Issue Resolved | 11:00am Central* - Microsoft reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
+*Issue Resolved | 12/04 11:00am Central* - Microsoft reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
 
 *Vendor Implementing Fix | 12/04 03:31am Central* - Microsoft has identified the root cause of the issue and is in process of testing and implementing a fix. The Atelic Technology Services Department has not been able to validate this report but are monitoring further updates from Microsoft. End user disruption may occur for this issue.
 
