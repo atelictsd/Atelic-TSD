@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Backup internet connection outage
-date: 2025-12-22T22:35:51.245Z
+date: 2025-12-18T15:15:51.245Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-12-22T22:35:51.246Z
+resolvedWhen: 2025-12-18T15:16:51.246Z
 affected:
   - 53W53
 severity: disrupted
