@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Fish Room Apple TV disconnection
-date: 2025-12-30T17:36:08.204Z
+date: 2025-12-18T17:36:08.204Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2025-12-30T17:36:08.206Z
+resolvedWhen: 2025-12-18T17:36:08.206Z
 affected:
   - 65E
 severity: disrupted
