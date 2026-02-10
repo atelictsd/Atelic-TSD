@@ -1,12 +1,12 @@
 ---
 section: issue
 title: Primary internet connection outage
-date: 2026-02-10T00:15:36.768Z
+date: 2026-02-07T11:52:36.768Z
 resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: 2026-02-10T00:15:36.770Z
+resolvedWhen: 2026-02-07T11:55:36.770Z
 affected:
   - 180E
 severity: disrupted
