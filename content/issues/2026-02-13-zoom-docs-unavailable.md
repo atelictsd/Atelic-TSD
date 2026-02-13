@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Zoom Docs unavailable
+title: Zoom Website unavailable
 date: 2026-02-10T15:13:56.469Z
 resolved: true
 draft: false
