@@ -12,7 +12,7 @@ affected:
   - "302"
 severity: disrupted
 ---
-*Issue Resolved | 10:27pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Vintage Fiber experienced two service outages resulting in a total downtime of four minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
+*Issue Resolved | 12:17pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Vintage Fiber experienced two service outages resulting in a total downtime of four minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
 
 *Issue Resolved, Department Monitoring | 07:51am Central* - Prior to starting our investigation, the FortiGate appliances at Vintage 204 and Vintage 302 in Indian Wells report that the Vintage Fiber internet connection is back online at this time. The Technology Services Department will monitor the connection, and will conduct a complete investigation of the outage within twelve hours.
 
