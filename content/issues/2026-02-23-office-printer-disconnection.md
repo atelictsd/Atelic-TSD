@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2026-02-19T19:54:47.972Z
 affected:
-  - 65E
+  - 180E
 severity: disrupted
 ---
 *Issue Resolved | 07:13pm Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. This will be the last update unless the issue recurs.
