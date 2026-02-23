@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Office printer disconnection
+title: Family Apple TV disconnection
 date: 2026-02-19T19:49:47.970Z
 resolved: true
 draft: false
