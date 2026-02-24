@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2026-02-24T08:10:45.332Z
 affected:
-  - 180E
+  - Moore
 severity: disrupted
 ---
 *Issue Resolved | 10:36am Central* - The Technology Services Department reports that the issue is now resolved. The Atelic Technology Services Department appreciates your patience and understanding while working through this service outage. If the issue is still occurring, please contact the Technology Services Department. After completing our final investigation, Comcast Business experienced a gateway update resulting in a total downtime of three minutes. We have confirmed that connectivity has been restored on our FortiGate management dashboard.
