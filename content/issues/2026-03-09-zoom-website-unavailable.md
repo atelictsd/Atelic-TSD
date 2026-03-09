@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Zoom website unavailable
+title: Zoom billing website unavailable
 date: 2026-03-05T14:42:03.235Z
 resolved: true
 draft: false
