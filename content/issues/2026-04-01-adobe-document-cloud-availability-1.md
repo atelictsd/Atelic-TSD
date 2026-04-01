@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Document Cloud availability
+title: Adobe Stock availability
 date: 2026-03-27T14:55:06.836Z
 resolved: true
 draft: false
