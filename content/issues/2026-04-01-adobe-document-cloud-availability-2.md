@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Document Cloud availability
+title: Adobe Acrobat Sign performance
 date: 2026-03-30T15:22:26.727Z
 resolved: true
 draft: false
