@@ -8,7 +8,7 @@ informational: false
 pin: false
 resolvedWhen: 2026-03-21T00:25:07.000Z
 affected:
-  - "302"
+  - 30N
 severity: disrupted
 ---
 *False Positive | 07:25pm Central* - After investigation, the Technology Services Department has determined that this was a false positive in our Cisco Meraki monitoring systems. Thank you for your patience and understanding while we worked through this issue report.
