@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Office Apple TV disconnection
+title: Family Apple TV disconnection
 date: 2026-02-28T13:48:23.285Z
 resolved: true
 draft: false
