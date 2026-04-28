@@ -41,6 +41,8 @@ params:
       category: Cloud Services
     - name: Adobe
       category: Cloud Services
+    - name: Axcient
+      category: Cloud Services
     - name: Box
       category: Cloud Services
     - name: CodeTwo
