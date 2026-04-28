@@ -1,6 +1,6 @@
 ---
 section: issue
-title: ScreenConnect unavailable
+title: Axcient x360Cloud unavailable
 date: 2026-04-19T19:02:34.611Z
 resolved: true
 draft: false
