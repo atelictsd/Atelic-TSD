@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Adobe Acrobat Sign performance
+title: Adobe Acrobat performance
 date: 2026-05-08T07:20:38.834Z
 resolved: true
 draft: false
